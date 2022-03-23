@@ -28,8 +28,9 @@ while True:
         else:
             print(f"Kolonunuzdaki Bildiğiniz Sayilar : {bilinenSayilar}")
     elif islem == 3:
+        print("Oyundan Çıktınız.. \nTekrar Görüşmek Üzere...")
         break
 else:
-    print("Oyundan Çıkıyorsunuz...")
+    print("Oyundan Çıkıyorsunuz... Tekrar Görüşmek Üzere...")
 
 
